@@ -1,2 +1,4 @@
 data/.DS_Store
 .DS_Store
+/notebooks/unattended/zarrs
+notebooks/unattended/generating_xarrays_from_dats.log
