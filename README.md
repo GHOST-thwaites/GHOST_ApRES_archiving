@@ -3,7 +3,7 @@ Code for preparation of data collected by the ITGC GHOST project for archiving.
 
 
 ## Install dependencies
-To run the notebooks in this repo, runt he following commands in the terminal 
+To run the notebooks in this repo, you can install the exact packages used for producing the archived data by running the following commands in the terminal 
 
 ```
 mamba env create -f environment.yaml
