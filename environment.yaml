@@ -10,3 +10,5 @@ dependencies:
   - geopandas==1.1.1
   - rioxarray==0.19.0
   - openpyxl==3.1.5
+  - pip:
+      - xapres==0.5.4
