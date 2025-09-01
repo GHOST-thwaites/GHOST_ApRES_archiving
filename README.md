@@ -13,8 +13,5 @@ mamba env create -f environment.yaml
 mamba activate apres_archiving
 ```
 
-```
-pip install xapres==0.5.3
-```
 
 
